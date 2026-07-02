@@ -1,0 +1,278 @@
+{
+  "spotdl\\context.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\exceptions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\logging.py": {
+    "mi": 72.02345224692668,
+    "rank": "A"
+  },
+  "spotdl\\mediafile.py": {
+    "mi": 79.58301605572906,
+    "rank": "A"
+  },
+  "spotdl\\metadata_plugins.py": {
+    "mi": 57.957960395365525,
+    "rank": "A"
+  },
+  "spotdl\\plugins.py": {
+    "mi": 41.99890727410001,
+    "rank": "A"
+  },
+  "spotdl\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\__main__.py": {
+    "mi": 53.37023475215344,
+    "rank": "A"
+  },
+  "spotdl\\autotag\\distance.py": {
+    "mi": 34.23388340100177,
+    "rank": "A"
+  },
+  "spotdl\\autotag\\hooks.py": {
+    "mi": 40.275453852922794,
+    "rank": "A"
+  },
+  "spotdl\\autotag\\match.py": {
+    "mi": 44.01041655407885,
+    "rank": "A"
+  },
+  "spotdl\\autotag\\__init__.py": {
+    "mi": 98.0557408976636,
+    "rank": "A"
+  },
+  "spotdl\\dbcore\\db.py": {
+    "mi": 12.520368413655701,
+    "rank": "B"
+  },
+  "spotdl\\dbcore\\pathutils.py": {
+    "mi": 51.842243104797014,
+    "rank": "A"
+  },
+  "spotdl\\dbcore\\query.py": {
+    "mi": 24.22193446102691,
+    "rank": "A"
+  },
+  "spotdl\\dbcore\\queryparse.py": {
+    "mi": 63.9537244591434,
+    "rank": "A"
+  },
+  "spotdl\\dbcore\\sort.py": {
+    "mi": 58.38277407262288,
+    "rank": "A"
+  },
+  "spotdl\\dbcore\\types.py": {
+    "mi": 47.49959098528916,
+    "rank": "A"
+  },
+  "spotdl\\dbcore\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\importer\\session.py": {
+    "mi": 53.67987783329945,
+    "rank": "A"
+  },
+  "spotdl\\importer\\stages.py": {
+    "mi": 56.86813916949017,
+    "rank": "A"
+  },
+  "spotdl\\importer\\state.py": {
+    "mi": 71.47570046523295,
+    "rank": "A"
+  },
+  "spotdl\\importer\\tasks.py": {
+    "mi": 13.122978373736789,
+    "rank": "B"
+  },
+  "spotdl\\importer\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\library\\exceptions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\library\\fields.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\library\\library.py": {
+    "mi": 63.492204146506545,
+    "rank": "A"
+  },
+  "spotdl\\library\\migrations.py": {
+    "mi": 42.918378072780655,
+    "rank": "A"
+  },
+  "spotdl\\library\\models.py": {
+    "mi": 6.10947682327881,
+    "rank": "C"
+  },
+  "spotdl\\library\\queries.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\library\\__init__.py": {
+    "mi": 74.30834038330268,
+    "rank": "A"
+  },
+  "spotdl\\test\\helper.py": {
+    "mi": 29.899925849709685,
+    "rank": "A"
+  },
+  "spotdl\\test\\_common.py": {
+    "mi": 69.39042978573714,
+    "rank": "A"
+  },
+  "spotdl\\test\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\ui\\__init__.py": {
+    "mi": 28.1554233836892,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\completion.py": {
+    "mi": 70.94626931799537,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\config.py": {
+    "mi": 70.62175758171985,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\fields.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\help.py": {
+    "mi": 71.56445696095467,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\list.py": {
+    "mi": 92.3933254265675,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\modify.py": {
+    "mi": 62.53156322556095,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\move.py": {
+    "mi": 58.933314291765974,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\remove.py": {
+    "mi": 74.99216182133111,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\stats.py": {
+    "mi": 59.60910559819647,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\update.py": {
+    "mi": 56.85612245218436,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\utils.py": {
+    "mi": 87.57295846496959,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\version.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\write.py": {
+    "mi": 82.26952166749717,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\import_\\display.py": {
+    "mi": 43.576396541406815,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\import_\\session.py": {
+    "mi": 36.695162212458904,
+    "rank": "A"
+  },
+  "spotdl\\ui\\commands\\import_\\__init__.py": {
+    "mi": 52.67190959742199,
+    "rank": "A"
+  },
+  "spotdl\\util\\artresizer.py": {
+    "mi": 33.152252375637026,
+    "rank": "A"
+  },
+  "spotdl\\util\\bluelet.py": {
+    "mi": 37.27097236140556,
+    "rank": "A"
+  },
+  "spotdl\\util\\color.py": {
+    "mi": 64.31299644325112,
+    "rank": "A"
+  },
+  "spotdl\\util\\config.py": {
+    "mi": 71.01604225559872,
+    "rank": "A"
+  },
+  "spotdl\\util\\deprecation.py": {
+    "mi": 76.28036568433795,
+    "rank": "A"
+  },
+  "spotdl\\util\\diff.py": {
+    "mi": 65.83185447353496,
+    "rank": "A"
+  },
+  "spotdl\\util\\extension.py": {
+    "mi": 64.56481355584322,
+    "rank": "A"
+  },
+  "spotdl\\util\\functemplate.py": {
+    "mi": 42.13971174731031,
+    "rank": "A"
+  },
+  "spotdl\\util\\hidden.py": {
+    "mi": 77.9247042477118,
+    "rank": "A"
+  },
+  "spotdl\\util\\id_extractors.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\util\\layout.py": {
+    "mi": 48.49342481650256,
+    "rank": "A"
+  },
+  "spotdl\\util\\lyrics.py": {
+    "mi": 55.91548534571065,
+    "rank": "A"
+  },
+  "spotdl\\util\\m3u.py": {
+    "mi": 78.86958784401881,
+    "rank": "A"
+  },
+  "spotdl\\util\\pathformats.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "spotdl\\util\\pipeline.py": {
+    "mi": 49.550487557387065,
+    "rank": "A"
+  },
+  "spotdl\\util\\units.py": {
+    "mi": 75.01173319734721,
+    "rank": "A"
+  },
+  "spotdl\\util\\__init__.py": {
+    "mi": 26.32828750611322,
+    "rank": "A"
+  }
+}
